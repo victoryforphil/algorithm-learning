@@ -1,3 +1,6 @@
 {
-    "cmake.sourceDirectory": "${workspaceFolder}/base"
+    "cmake.sourceDirectory": "${workspaceFolder}/base",
+    "files.associations": {
+        "string.h": "c"
+    }
 }
